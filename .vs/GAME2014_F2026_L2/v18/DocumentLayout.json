@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|c:\\users\\horba\\onedrive\\documents\\game2014\\game2014_f2026_l2\\assets\\_scripts\\restartbuttonbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\restartbuttonbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|c:\\users\\horba\\onedrive\\documents\\game2014\\game2014_f2026_l2\\assets\\_scripts\\obstaclepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\obstaclepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|c:\\users\\horba\\onedrive\\documents\\game2014\\game2014_f2026_l2\\assets\\_scripts\\backbuttonbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\backbuttonbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|c:\\users\\horba\\onedrive\\documents\\game2014\\game2014_f2026_l2\\assets\\_scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\assets\\_scripts\\nextbuttonbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\nextbuttonbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\assets\\_scripts\\backgroundscrolling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\backgroundscrolling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\assets\\_scripts\\playbuttonbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\playbuttonbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\assets\\_scripts\\boundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\boundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\assets\\_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB4477C-54C7-37F7-A0E9-386E53000429}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +35,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RestartButtonBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\RestartButtonBehavior.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\RestartButtonBehavior.cs",
-              "ToolTip": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\RestartButtonBehavior.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\RestartButtonBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Title": "ObstaclePool.cs",
+              "DocumentMoniker": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\ObstaclePool.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ObstaclePool.cs",
+              "ToolTip": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\ObstaclePool.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ObstaclePool.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T16:17:40.82Z",
+              "WhenOpened": "2026-10-13T11:08:21.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BackButtonBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\BackButtonBehavior.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\BackButtonBehavior.cs",
-              "ToolTip": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\BackButtonBehavior.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\BackButtonBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Obstacle.cs",
+              "ToolTip": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Obstacle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T16:15:04.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NextButtonBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\NextButtonBehavior.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\NextButtonBehavior.cs",
-              "ToolTip": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\NextButtonBehavior.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\NextButtonBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T16:15:04.493Z",
+              "WhenOpened": "2026-10-13T11:08:14.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PlayButtonBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\PlayButtonBehavior.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\PlayButtonBehavior.cs",
-              "ToolTip": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\PlayButtonBehavior.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\PlayButtonBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "Boundary.cs",
+              "DocumentMoniker": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\Boundary.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Boundary.cs",
+              "ToolTip": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\Boundary.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Boundary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T16:15:04.496Z",
+              "WhenOpened": "2026-10-13T11:08:14.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T10:59:58.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackgroundScrolling.cs",
+              "DocumentMoniker": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\BackgroundScrolling.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\BackgroundScrolling.cs",
+              "ToolTip": "C:\\Users\\horba\\OneDrive\\Documents\\GAME2014\\GAME2014_F2026_L2\\Assets\\_Scripts\\BackgroundScrolling.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\BackgroundScrolling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:08:14.648Z",
               "EditorCaption": ""
             }
           ]
