@@ -1,14 +1,18 @@
 using UnityEngine;
+using TMPro;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public float moveSpeed = 8f;
+
+    public int lives = 3;
+    public TextMeshProUGUI livesText;
+
     void Start()
     {
-        
+        UpdateLivesText();
     }
-
-    public float moveSpeed = 8f;
 
     void Update()
     {
@@ -22,6 +26,44 @@ public class PlayerController : MonoBehaviour
                 mousePosition,
                 moveSpeed * Time.deltaTime
             );
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Obstacle"))
+        {
+            TakeDamage();
+            other.gameObject.SetActive(false);
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Obstacle"))
+        {
+            TakeDamage();
+            other.gameObject.SetActive(false);
+        }
+    }
+
+    void TakeDamage()
+    {
+        lives--;
+
+        UpdateLivesText();
+
+        if (lives <= 0)
+        {
+            SceneManager.LoadScene("End");
+        }
+    }
+
+    void UpdateLivesText()
+    {
+        if (livesText != null)
+        {
+            livesText.text = "Lives: " + lives;
         }
     }
 }

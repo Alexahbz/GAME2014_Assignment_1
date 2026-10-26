@@ -9,13 +9,13 @@ public class ObstaclePool : MonoBehaviour
     [SerializeField]
     int poolSize = 5;
     [SerializeField]
-    float spawnInterval = 2f;
+    float spawnInterval = 3f;
     [SerializeField]
     float spawnY = 6f;
     [SerializeField]
-    float minX = -8f;
+    float minX = -2f;
     [SerializeField]
-    float maxX = 8f;
+    float maxX = 2f;
     List<GameObject> rocks = new List<GameObject>();
 
     void Start()
