@@ -17,9 +17,16 @@ public class GameController : MonoBehaviour
     private float livesLabelHalfHeight;
     private float livesLabelHalfWidth;
 
+    public static float SurvivalTime { get; private set; }
+    public static bool IsGameOver { get; set; }
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        SurvivalTime = 0f;
+        IsGameOver = false;
+
         scoreLabelHalfHeight = scoreLabel.rectTransform.rect.height * 0.5f;
         scoreLabelHalfWith = scoreLabel.rectTransform.rect.width * 0.5f;
 
@@ -31,6 +38,14 @@ public class GameController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (!IsGameOver)
+        {
+            SurvivalTime += Time.deltaTime;
+        }
+
+        scoreLabel.text = "Score: " + Mathf.FloorToInt(SurvivalTime);
+
+
         scoreLabel.rectTransform.position = new Vector2(
             Screen.safeArea.xMax - scoreLabelHalfWith,
             Screen.safeArea.yMax - scoreLabelHalfHeight);

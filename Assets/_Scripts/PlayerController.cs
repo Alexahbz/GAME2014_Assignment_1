@@ -55,9 +55,24 @@ public class PlayerController : MonoBehaviour
 
         if (lives <= 0)
         {
+            GameController.IsGameOver = true;
+
+            PlayerPrefs.SetInt(
+                "FinalScore",
+                Mathf.FloorToInt(GameController.SurvivalTime)
+            );
+
             SceneManager.LoadScene("End");
         }
     }
+
+
+    public void AddLife()
+    {
+        lives++;
+        UpdateLivesText();
+    }
+
 
     void UpdateLivesText()
     {
